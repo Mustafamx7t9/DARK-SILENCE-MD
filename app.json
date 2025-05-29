@@ -1,7 +1,7 @@
 {
   "name": "DARK-SILENCE-MD",
   "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERD BY SILENTLOVER432 ♥️",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "logo": "https://files.catbox.moe/2hrmcy",
   "keywords": ["bot"],
   "success_url": "/",
   "env": {
@@ -14,13 +14,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/9vg76j"
+      "value": "https://files.catbox.moe/2hrmcy"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "𝔻𝔸ℝ𝕂-𝕊𝕀𝕃𝔼ℕℂ𝔼-𝕄𝔻 𝔸𝕃𝕀𝕍𝔼 ℕ𝕆𝕎 🤍💫💨"
+      "value": "𝕃𝔸𝕊𝕋 𝕂𝕀ℕ𝔾𝔻𝕆𝕄 𝟟𝕋𝟡 𝔸𝕃𝕀𝕍𝔼 ℕ𝕆𝕎 🤍💫💨"
     },
     
     "PREFIX": {
@@ -43,8 +43,8 @@
 
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
-      "required": true,
-      "value": "true"
+      "required": fasle,
+      "value": "fasle"
     }, 
 
     "AUTO_STICKER": {
@@ -92,7 +92,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦𝐃𝐀𝐑𝐊-𝐒𝐈𝐋𝐄𝐍𝐂𝐄-𝐌𝐃✦"
+      "value": "✦𝐋𝐀𝐒𝐓 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝟕𝐓𝟗✦"
     }, 
 
     "HEART_REACT": {
@@ -110,13 +110,13 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐈𝐋𝐄𝐍𝐓𝐋𝐎𝐕𝐄𝐑432"
+      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐋𝐀𝐒𝐓 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝟕𝐓𝟗"
     }, 
     
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": false,
-      "value": "🂱 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄𝐍 𝐀𝐍𝐃 𝐋𝐈𝐊𝐄 𝐉𝐔𝐒𝐓 𝐍𝐎𝐖 𝐖𝐈𝐀 𝐃𝐀𝐑𝐊-𝐒𝐈𝐋𝐄𝐍𝐂𝐄-𝐌𝐃 🂱"
+      "value": "🂱 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄𝐍 𝐀𝐍𝐃 𝐋𝐈𝐊𝐄 𝐉𝐔𝐒𝐓 𝐍𝐎𝐖 𝐖𝐈𝐀 𝐃𝐀𝐑𝐊-𝐀𝐋𝐀𝐃𝐃𝐈𝐍-𝐌𝐃 🂱"
     },
     
     "AUTO_REPLY_STATUS": {
@@ -127,14 +127,14 @@
 
     "ALWAYS_ONLINE": {
       "description": "make it true if you want to show always online.",
-      "required": true,
-      "value": "true"
+      "required": fasle,
+      "value": "fasle"
     }, 
     
     "FAKE_TYPING": {
       "description": "make it true if you want to show fake typing.",
       "required": true,
-      "value": "true"
+      "value": "fasle"
     }, 
     
     "CURRENT_STATUS": {
@@ -146,7 +146,7 @@
     "READ_CMD": {
       "description": "make it true if you want bot auto read commands",
       "required": true,
-      "value": "true"
+      "value": "fasle"
     }, 
     
     "STATUS_REACT": {
@@ -158,13 +158,13 @@
     "OWNER_NUMBER": {
       "description": "replace it with your own number.",
       "required": false,
-      "value": "923096287432"
+      "value": "923113921794"
     }, 
 
     "OWNER_NAME": {
       "description": "replace it with your own name.",
       "required": false,
-      "value": "➺ѕเℓεɳƭ_ℓσѵε૨࿐"
+      "value": "➺𝐀𝐋𝐀𝐃𝐃𝐈𝐍 𝐌𝐗࿐"
      },
 
     "INBOX_BLOCK": {
